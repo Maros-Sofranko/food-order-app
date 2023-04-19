@@ -7,7 +7,7 @@ const MOCK_DATA = [
     id: "m1",
     name: "Sushi",
     description: "Finest fish and veggies",
-    price: 22.99,
+    price: 30,
   },
   {
     id: "m2",
